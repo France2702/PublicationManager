@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<publications>
+    <publication>
+        <id>1</id>
+        <title>Learn Basic JavaSwing with NetBean</title>
+        <type>Reference Book</type>
+        <genre>Progaming</genre>
+        <author>Chau Tan Phap</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>2</id>
+        <title>Mathematics Today</title>
+        <type>Magazine</type>
+        <genre>Scientific</genre>
+        <author>John Doe</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>3</id>
+        <title>Science News</title>
+        <type>Newspapers</type>
+        <genre>Scientific</genre>
+        <author>Jane Smith</author>
+        <price>60000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>4</id>
+        <title>English Grammar</title>
+        <type>ExerciseBook</type>
+        <genre>Educational</genre>
+        <author>David Brown</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>5</id>
+        <title>The Art of Programming</title>
+        <type>Book</type>
+        <genre>Scientific</genre>
+        <author>Alan Turing</author>
+        <price>150000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>6</id>
+        <title>The New Yorker</title>
+        <type>Magazine</type>
+        <genre>Culture</genre>
+        <author>Various authors</author>
+        <price>90000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>7</id>
+        <title>Java for Beginners</title>
+        <type>TextBook</type>
+        <genre>Computer Science</genre>
+        <author>Bill Gates</author>
+        <price>100000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>8</id>
+        <title>World History</title>
+        <type>Book</type>
+        <genre>History</genre>
+        <author>Mark Twain</author>
+        <price>70000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>9</id>
+        <title>Business Insider</title>
+        <type>Newspapers</type>
+        <genre>Business</genre>
+        <author>Steve Jobs</author>
+        <price>110000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>10</id>
+        <title>Chemistry Today</title>
+        <type>Magazine</type>
+        <genre>Scientific</genre>
+        <author>Marie Curie</author>
+        <price>130000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>11</id>
+        <title>Math Magazine</title>
+        <type>Magazine</type>
+        <genre>Mathematics</genre>
+        <author>John Doe</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>12</id>
+        <title>History Book</title>
+        <type>Book</type>
+        <genre>History</genre>
+        <author>Jane Smith</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>13</id>
+        <title>Science Newspaper</title>
+        <type>Newspaper</type>
+        <genre>Science</genre>
+        <author>Mike Johnson</author>
+        <price>30000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>14</id>
+        <title>Art Book</title>
+        <type>Book</type>
+        <genre>Art</genre>
+        <author>Sara Lee</author>
+        <price>95000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>15</id>
+        <title>English Exercise Book</title>
+        <type>ExerciseBook</type>
+        <genre>English</genre>
+        <author>Tom Brown</author>
+        <price>40000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>16</id>
+        <title>Geography Magazine</title>
+        <type>Magazine</type>
+        <genre>Geography</genre>
+        <author>Lisa Green</author>
+        <price>55000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>17</id>
+        <title>Biology TextBook</title>
+        <type>TextBook</type>
+        <genre>Biology</genre>
+        <author>Chris Martin</author>
+        <price>150000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>18</id>
+        <title>Music Magazine</title>
+        <type>Magazine</type>
+        <genre>Music</genre>
+        <author>Amy Johnson</author>
+        <price>45000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>19</id>
+        <title>Computer Science Book</title>
+        <type>Book</type>
+        <genre>Computer Science</genre>
+        <author>Mark Davis</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>20</id>
+        <title>Chemistry Newspaper</title>
+        <type>Newspaper</type>
+        <genre>Chemistry</genre>
+        <author>Susan Lee</author>
+        <price>35000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>21</id>
+        <title>Java Programming</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>John Doe</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>22</id>
+        <title>The New York Times</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>The New York Times</author>
+        <price>35000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>23</id>
+        <title>The Economist</title>
+        <type>Magazine</type>
+        <genre>Business</genre>
+        <author>The Economist</author>
+        <price>55000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>24</id>
+        <title>Mathematics for Beginners</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Jane Smith</author>
+        <price>45000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>25</id>
+        <title>Science Weekly</title>
+        <type>Magazine</type>
+        <genre>Science</genre>
+        <author>Science Weekly</author>
+        <price>40000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>26</id>
+        <title>The Washington Post</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>The Washington Post</author>
+        <price>30000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>27</id>
+        <title>Physics for Everyone</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Bob Johnson</author>
+        <price>48000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>28</id>
+        <title>Nature Magazine</title>
+        <type>Magazine</type>
+        <genre>Science</genre>
+        <author>Nature Magazine</author>
+        <price>60000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>29</id>
+        <title>The Guardian</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>The Guardian</author>
+        <price>32000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>30</id>
+        <title>Advanced Chemistry</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Mike Williams</author>
+        <price>60000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>31</id>
+        <title>The Da Vinci Code</title>
+        <type>Book</type>
+        <genre>Thriller</genre>
+        <author>Dan Brown</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>32</id>
+        <title>The Great Gatsby</title>
+        <type>Book</type>
+        <genre>Novel</genre>
+        <author>F. Scott Fitzgerald</author>
+        <price>95000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>33</id>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <type>Book</type>
+        <genre>Fantasy</genre>
+        <author>J.K. Rowling</author>
+        <price>85000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>34</id>
+        <title>National Geographic</title>
+        <type>Magazine</type>
+        <genre>Science</genre>
+        <author>Various Authors</author>
+        <price>55000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>35</id>
+        <title>The Wall Street Journal</title>
+        <type>Newspaper</type>
+        <genre>Business</genre>
+        <author>Various Authors</author>
+        <price>70000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>36</id>
+        <title>Reader's Digest</title>
+        <type>Magazine</type>
+        <genre>Lifestyle</genre>
+        <author>Various Authors</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>37</id>
+        <title>Time Magazine</title>
+        <type>Magazine</type>
+        <genre>Current Affairs</genre>
+        <author>Various Authors</author>
+        <price>60000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>38</id>
+        <title>Physiology of Behavior</title>
+        <type>TextBook</type>
+        <genre>Psychology</genre>
+        <author>Neil R. Carlson</author>
+        <price>135000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>39</id>
+        <title>Genetics: From Genes to Genomes</title>
+        <type>TextBook</type>
+        <genre>Biology</genre>
+        <author>Leland H. Hartwell</author>
+        <price>155000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>40</id>
+        <title>Exercise Notebook</title>
+        <type>ExerciseBook</type>
+        <genre>Education</genre>
+        <author>Various Authors</author>
+        <price>25000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>41</id>
+        <title>Atomic Habits</title>
+        <type>Book</type>
+        <genre>Self-Help</genre>
+        <author>James Clear</author>
+        <price>250000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>42</id>
+        <title>The Lean Startup</title>
+        <type>Book</type>
+        <genre>Business</genre>
+        <author>Eric Ries</author>
+        <price>350000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>43</id>
+        <title>1984</title>
+        <type>Book</type>
+        <genre>Dystopian</genre>
+        <author>George Orwell</author>
+        <price>100000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>44</id>
+        <title>The Great Gatsby</title>
+        <type>Book</type>
+        <genre>Classic</genre>
+        <author>F. Scott Fitzgerald</author>
+        <price>150000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>45</id>
+        <title>The Art of War</title>
+        <type>Book</type>
+        <genre>Military Strategy</genre>
+        <author>Sun Tzu</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>46</id>
+        <title>Forbes</title>
+        <type>Magazine</type>
+        <genre>Business</genre>
+        <author>Forbes</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>47</id>
+        <title>National Geographic</title>
+        <type>Magazine</type>
+        <genre>Science</genre>
+        <author>National Geographic</author>
+        <price>70000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>48</id>
+        <title>The Wall Street Journal</title>
+        <type>Newspaper</type>
+        <genre>Business</genre>
+        <author>The Wall Street Journal</author>
+        <price>40000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>49</id>
+        <title>The New York Times</title>
+        <type>Newspaper</type>
+        <genre>Current Affairs</genre>
+        <author>The New York Times</author>
+        <price>30000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>50</id>
+        <title>Headway</title>
+        <type>Exercise Book</type>
+        <genre>Language Learning</genre>
+        <author>Oxford University Press</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>51</id>
+        <title>Programming in Java</title>
+        <type>TextBook</type>
+        <genre>Computer Science</genre>
+        <author>John Smith</author>
+        <price>150000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>52</id>
+        <title>The New York Times</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>The New York Times Company</author>
+        <price>20000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>53</id>
+        <title>Nature Magazine</title>
+        <type>Magazine</type>
+        <genre>Science</genre>
+        <author>Nature Publishing Group</author>
+        <price>100000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>54</id>
+        <title>Advanced Calculus</title>
+        <type>TextBook</type>
+        <genre>Mathematics</genre>
+        <author>Tom Johnson</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>55</id>
+        <title>English Grammar Workbook</title>
+        <type>ExerciseBook</type>
+        <genre>Language Learning</genre>
+        <author>Jane Doe</author>
+        <price>40000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>56</id>
+        <title>Chemical Reactions</title>
+        <type>TextBook</type>
+        <genre>Chemistry</genre>
+        <author>Robert Williams</author>
+        <price>90000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>57</id>
+        <title>Forbes Magazine</title>
+        <type>Magazine</type>
+        <genre>Business</genre>
+        <author>Forbes Media LLC</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>58</id>
+        <title>Introduction to Psychology</title>
+        <type>TextBook</type>
+        <genre>Psychology</genre>
+        <author>Susan Thompson</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>59</id>
+        <title>Physics Today</title>
+        <type>Magazine</type>
+        <genre>Physics</genre>
+        <author>American Institute of Physics</author>
+        <price>60000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>60</id>
+        <title>French Made Simple</title>
+        <type>TextBook</type>
+        <genre>Language Learning</genre>
+        <author>Pierre Dupont</author>
+        <price>70000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>61</id>
+        <title>Trong hieu ung dong</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Tran Quoc Tuan</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>62</id>
+        <title>Cuoc song muon mau</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>Nguyen Thu Trang</author>
+        <price>25000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>63</id>
+        <title>Mat ma vung dat</title>
+        <type>Magazine</type>
+        <genre>Entertainment</genre>
+        <author>Pham Minh Tuan</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>64</id>
+        <title>Ky nang lam viec nhom</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Le Thi Nhan</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>65</id>
+        <title>Tiem an, tim ra</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>Nguyen Van Nam</author>
+        <price>35000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>66</id>
+        <title>Tuoi tho du doi</title>
+        <type>Magazine</type>
+        <genre>Lifestyle</genre>
+        <author>Nguyen Thi Hien</author>
+        <price>45000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>67</id>
+        <title>Chien luoc kinh doanh moi</title>
+        <type>TextBook</type>
+        <genre>Business</genre>
+        <author>Tran Minh Quan</author>
+        <price>150000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>68</id>
+        <title>Thien thanh, ma quy</title>
+        <type>Newspaper</type>
+        <genre>News</genre>
+        <author>Tran Van Hieu</author>
+        <price>30000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>69</id>
+        <title>Mua sam thong minh</title>
+        <type>Magazine</type>
+        <genre>Lifestyle</genre>
+        <author>Nguyen Van Long</author>
+        <price>55000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>70</id>
+        <title>Tu duy sang tao</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Le Thi Anh</author>
+        <price>90000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>71</id>
+        <title>Beyond the Trees</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>John Smith</author>
+        <price>350000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>72</id>
+        <title>Exploring the Ocean</title>
+        <type>Magazine</type>
+        <genre>Scientific</genre>
+        <author>Jane Doe</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>73</id>
+        <title>History of the World</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>David Williams</author>
+        <price>250000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>74</id>
+        <title>Politics Today</title>
+        <type>Newspaper</type>
+        <genre>Political</genre>
+        <author>Michael Brown</author>
+        <price>15000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>75</id>
+        <title>The Science of Cooking</title>
+        <type>Magazine</type>
+        <genre>Scientific</genre>
+        <author>Samantha Green</author>
+        <price>60000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>76</id>
+        <title>Introduction to Programming</title>
+        <type>TextBook</type>
+        <genre>Educational</genre>
+        <author>Jason Lee</author>
+        <price>200000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>77</id>
+        <title>Foreign Affairs</title>
+        <type>Magazine</type>
+        <genre>Political</genre>
+        <author>Emily Lee</author>
+        <price>55000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>78</id>
+        <title>The Art of Writing</title>
+        <type>ExerciseBook</type>
+        <genre>Artistic</genre>
+        <author>Michelle Rodriguez</author>
+        <price>100000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>79</id>
+        <title>Discovering the Universe</title>
+        <type>TextBook</type>
+        <genre>Scientific</genre>
+        <author>Adam Taylor</author>
+        <price>300000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>80</id>
+        <title>Sports Illustrated</title>
+        <type>Magazine</type>
+        <genre>Sport</genre>
+        <author>Tom Johnson</author>
+        <price>45000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>81</id>
+        <title>How to Code in Python</title>
+        <type>TextBook</type>
+        <genre>Education</genre>
+        <author>John Doe</author>
+        <price>50000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>82</id>
+        <title>Science News Today</title>
+        <type>Newspaper</type>
+        <genre>Science</genre>
+        <author>Jane Smith</author>
+        <price>15000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>83</id>
+        <title>Food and Wine Magazine</title>
+        <type>Magazine</type>
+        <genre>Culinary</genre>
+        <author>Michael Johnson</author>
+        <price>30000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>84</id>
+        <title>The History of Art</title>
+        <type>TextBook</type>
+        <genre>Education</genre>
+        <author>Emma Lee</author>
+        <price>70000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>85</id>
+        <title>Chemistry for Kids</title>
+        <type>TextBook</type>
+        <genre>Education</genre>
+        <author>David Lee</author>
+        <price>45000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>86</id>
+        <title>Sports Illustrated</title>
+        <type>Magazine</type>
+        <genre>Sports</genre>
+        <author>Mark Thompson</author>
+        <price>25000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>87</id>
+        <title>The Secrets of the Universe</title>
+        <type>TextBook</type>
+        <genre>Science</genre>
+        <author>Alice Green</author>
+        <price>90000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>88</id>
+        <title>English Learning for Beginners</title>
+        <type>TextBook</type>
+        <genre>Education</genre>
+        <author>Paul Wilson</author>
+        <price>55000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>89</id>
+        <title>The Art of Cooking</title>
+        <type>ExerciseBook</type>
+        <genre>Culinary</genre>
+        <author>Anna Smith</author>
+        <price>20000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>90</id>
+        <title>The Science of Climate Change</title>
+        <type>TextBook</type>
+        <genre>Science</genre>
+        <author>Tom Brown</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>91</id>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <type>Book</type>
+        <genre>Fantasy</genre>
+        <author>J.K. Rowling</author>
+        <price>150000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>92</id>
+        <title>The Lord of the Rings</title>
+        <type>Book</type>
+        <genre>Fantasy</genre>
+        <author>J.R.R. Tolkien</author>
+        <price>200000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>93</id>
+        <title>The Da Vinci Code</title>
+        <type>Book</type>
+        <genre>Mystery</genre>
+        <author>Dan Brown</author>
+        <price>180000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>94</id>
+        <title>Time Magazine</title>
+        <type>Magazine</type>
+        <genre>News</genre>
+        <author>Time Inc.</author>
+        <price>80000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>95</id>
+        <title>National Geographic Magazine</title>
+        <type>Magazine</type>
+        <genre>Science</genre>
+        <author>National Geographic Society</author>
+        <price>90000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>96</id>
+        <title>The Economist</title>
+        <type>Newspaper</type>
+        <genre>Business</genre>
+        <author>The Economist Group</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>97</id>
+        <title>Chemistry for Dummies</title>
+        <type>Textbook</type>
+        <genre>Education</genre>
+        <author>John T. Moore</author>
+        <price>120000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>98</id>
+        <title>Physics for Scientists and Engineers</title>
+        <type>Textbook</type>
+        <genre>Education</genre>
+        <author>Randall D. Knight</author>
+        <price>170000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>99</id>
+        <title>Java: The Complete Reference</title>
+        <type>Book</type>
+        <genre>Programming</genre>
+        <author>Herbert Schildt</author>
+        <price>250000</price>
+        <abs></abs>
+    </publication>
+    <publication>
+        <id>100</id>
+        <title>The Art of Computer Programming</title>
+        <type>Book</type>
+        <genre>Programming</genre>
+        <author>Donald E. Knuth</author>
+        <price>300000</price>
+        <abs></abs>
+    </publication>
+</publications>
