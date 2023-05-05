@@ -1,12 +1,12 @@
 # PublicationManager
 This is an ant java application that help you manage a number of publications in easy way
-===================================================
+
 Bài Tập Giữa Phần:
 Phát triển Ứng dụng Quản lý Ấn phẩm
 Yêu cầu: 
 - Ít nhất có 2 loại sách, báo; 
 - Thống kê ấn phẩm; Tìm kiếm ít nhất theo 2 tiêu chí
-====================================================
+
 1. Tên ứng dụng:
 Publication Manager
 
