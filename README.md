@@ -6,10 +6,10 @@ Phát triển Ứng dụng Quản lý Ấn phẩm
 Yêu cầu: 
 - Ít nhất có 2 loại sách, báo; 
 - Thống kê ấn phẩm; Tìm kiếm ít nhất theo 2 tiêu chí
-
+IMP
 1. Tên ứng dụng:
 Publication Manager
-
+IMPORTANT NOTE: PLEASE INSTALL VERSION JDK 20 OR HIGHER TO RUNT THIS PROJECT. IF NOT, YOU CAN CHANGE THE SOURCE JDK OF THIS PROJECT AT IT'S PROPERTIES
 2.Login
 - User: admin
 - Password: admin
