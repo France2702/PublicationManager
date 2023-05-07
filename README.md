@@ -11,6 +11,7 @@ IMPORTANT NOTE: PLEASE INSTALL VERSION JDK 14 OR HIGHER TO RUN THIS PROJECT. IF 
 
 1. Tên ứng dụng:
 Publication Manager
+
 2.Login
 - User: admin
 - Password: admin
