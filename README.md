@@ -12,11 +12,11 @@ IMPORTANT NOTE: PLEASE INSTALL VERSION JDK 14 OR HIGHER TO RUN THIS PROJECT. IF 
 1. Tên ứng dụng:
 Publication Manager
 
-2.Login
+2. Login
 - User: admin
 - Password: admin
 
-3.Chức năng:
+3. Chức năng:
 - Thêm, xóa, sửa thông tin của các ấn phẩm
  + Trường Id: id là  kiểu số nguyên int, tự động được chương trình thiết lập cho một ấn phẩm mới, bắt đầu từ 1, và tăng dần 1 đơn vị khi ấn phẩm mới được thêm vào.
  + Trường Title, Author, Type, Genre: là các trường chứa thông tin tiêu đề, tác giả, loại, thể loại của ấn phẩm, với dữ liệu đầu vào là String, bắt buộc không được để trống.
